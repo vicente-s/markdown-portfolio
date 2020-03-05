@@ -1,0 +1,3 @@
+- Skateboarding
+- New York City
+- Video Games

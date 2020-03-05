@@ -1,6 +1,6 @@
 
-- JavaScript
-- Python
-- Ruby
-- HTML5
-- CSS
+* JavaScript
+* Python
+* Ruby
+* HTML5
+* CSS
